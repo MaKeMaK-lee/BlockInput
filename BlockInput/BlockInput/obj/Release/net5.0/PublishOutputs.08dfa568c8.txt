@@ -1,0 +1,5 @@
+C:\Users\Akatsuki\source\PublishedMVS\BlockInput\BlockInput.exe
+C:\Users\Akatsuki\source\PublishedMVS\BlockInput\BlockInput.dll
+C:\Users\Akatsuki\source\PublishedMVS\BlockInput\BlockInput.deps.json
+C:\Users\Akatsuki\source\PublishedMVS\BlockInput\BlockInput.runtimeconfig.json
+C:\Users\Akatsuki\source\PublishedMVS\BlockInput\BlockInput.pdb

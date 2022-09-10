@@ -1,0 +1,16 @@
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\bin\Release\net5.0\BlockInput.exe
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\bin\Release\net5.0\BlockInput.deps.json
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\bin\Release\net5.0\BlockInput.runtimeconfig.json
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\bin\Release\net5.0\BlockInput.runtimeconfig.dev.json
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\bin\Release\net5.0\BlockInput.dll
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\bin\Release\net5.0\ref\BlockInput.dll
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\bin\Release\net5.0\BlockInput.pdb
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\obj\Release\net5.0\BlockInput.csprojAssemblyReference.cache
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\obj\Release\net5.0\BlockInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\obj\Release\net5.0\BlockInput.AssemblyInfoInputs.cache
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\obj\Release\net5.0\BlockInput.AssemblyInfo.cs
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\obj\Release\net5.0\BlockInput.csproj.CoreCompileInputs.cache
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\obj\Release\net5.0\BlockInput.dll
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\obj\Release\net5.0\ref\BlockInput.dll
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\obj\Release\net5.0\BlockInput.pdb
+D:\Akatsuki\YandexDisk\Учебные материалы\Прога\Хлам проги\BlockInput\BlockInput\obj\Release\net5.0\BlockInput.genruntimeconfig.cache

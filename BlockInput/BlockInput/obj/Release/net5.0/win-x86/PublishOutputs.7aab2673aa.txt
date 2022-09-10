@@ -1,0 +1,6 @@
+C:\Users\Akatsuki\source\PublishedMVS\BlockInput.pdb
+C:\Users\Akatsuki\source\PublishedMVS\clrcompression.dll
+C:\Users\Akatsuki\source\PublishedMVS\clrjit.dll
+C:\Users\Akatsuki\source\PublishedMVS\coreclr.dll
+C:\Users\Akatsuki\source\PublishedMVS\mscordaccore.dll
+C:\Users\Akatsuki\source\PublishedMVS\BlockInput.exe
